@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hey, I'm Shams 👋
 
-<!--
-**Shams-Iqbal04/Shams-Iqbal04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MCA student at **Banaras Hindu University** · Building at the intersection of **AI/ML** and **Cybersecurity** · Event Manager @ [The Debuggers](https://github.com/) coding club
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## What I'm learning
+
+- **LLM Engineering** — Groq SDK, chat message formatting, tool use, building on top of foundation models
+- **ML Internals** — regularization (L1/L2/Dropout), bias-variance tradeoff, decision trees, gradient descent, neural networks
+- **MLOps basics** — `uv`, `pyproject.toml`, FastAPI for model serving, joblib for model persistence
+- Completed **Andrew Ng's Machine Learning Specialization** (DeepLearning.AI)
+
+---
+
+## Stack
+
+```
+Languages   Python · SQL · JavaScript · C++
+ML/AI       scikit-learn · NumPy · Pandas · FastAPI · joblib
+Concepts    Supervised Learning · Anomaly Detection · NLP · LLMs · Collaborative Filtering
+Security    Network Intrusion Detection · ML-based threat modeling
+Tools       Git · Jupyter · VS Code · uvicorn
+```
+
+---
+
+## A bit about me
+
+- 🎓 BCA from Karim City College, Jamshedpur → MCA at BHU, Varanasi
+- 🛡️ Drawn to **cybersecurity + ML** — using models to detect what rules can't
+- 🎤 Run events and workshops for **The Debuggers** club — enjoy making technical concepts click for people learning from scratch
+- 📬 Open to **ML internship** opportunities and research collaborations
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+---
+
+<sub>Currently: First-year MCA · BHU, Varanasi, India</sub>
