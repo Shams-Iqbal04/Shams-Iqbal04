@@ -1,6 +1,6 @@
 # Hey, I'm Shams 👋
 
-MCA student at **Banaras Hindu University** · Building at the intersection of **AI/ML** and **Cybersecurity** · Event Manager @ [The Debuggers](https://github.com/) coding club
+MCA student at **Banaras Hindu University** · Building at the intersection of **AI/ML** · Event Manager @ [The Debuggers](https://github.com/) coding club
 
 ---
 
@@ -18,10 +18,9 @@ MCA student at **Banaras Hindu University** · Building at the intersection of *
 ## Stack
 
 ```
-Languages   Python · SQL · JavaScript · C++
+Languages   Python · SQL  · C++
 ML/AI       scikit-learn · NumPy · Pandas · FastAPI · joblib
 Concepts    Supervised Learning · Anomaly Detection · NLP · LLMs · Collaborative Filtering
-Security    Network Intrusion Detection · ML-based threat modeling
 Tools       Git · Jupyter · VS Code · uvicorn
 ```
 
